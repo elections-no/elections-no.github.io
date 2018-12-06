@@ -1,9 +1,11 @@
 ---
-title: Tilsvar til Valgdir (15. august 2017)
+title: Tilsvar til Valgdir
 author: Patricia Aas
 layout: post
 date: 2017-08-15
 description:
+image: "/images/norway-2128137_640.jpg"
+image_alt: Norway Trondheim Old Town Harbor Sunrise
 ---
 
 I VG 8. august svarer Bjørn Berg, direktør i Valgdirektoratet, på min kronikk (29. juli, VG). Min kronikk inneholdt en rekke spørsmål rundt IT sikkerheten spesielt rundt telling av stemmer i norske valg. Noen av disse ble til en viss grad besvart av Berg, men det er fortsatt mye som ikke ble besvart og svaret hans reiser også enda flere spørsmål.

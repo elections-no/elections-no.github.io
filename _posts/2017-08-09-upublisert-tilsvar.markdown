@@ -1,9 +1,11 @@
 ---
-title: Tilsvar til Valgdir (9. august 2017)
+title: Tilsvar til Valgdir
 author: Patricia Aas
 layout: post
 date: 2017-08-09
 description:
+image: "/images/norway-island-2075451_640.jpg"
+image_alt: Norway Island Rocky Sunset Lighthouse Architecture
 ---
 
 I VG 8. august svarer Bjørn Berg, direktør Valgdirektoratet, på min kronikk (29. juli, VG). Min kronikk inneholdt en rekke spørsmål rundt IT sikkerheten i norske valg, spesielt rundt telling av stemmer. Disse ble til en viss grad besvart av Berg, og de som er interesserte kan finne både spørsmålene mine og svaret hans på profilen min på Twitter. I stedet for å gå igjennom svaret til Berg vil jeg prøve å illustrere hvorfor jeg stilte disse spørsmålene, og hvorfor de ikke bør avfeies med “gode ord”.

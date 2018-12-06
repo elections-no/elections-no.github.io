@@ -1,9 +1,11 @@
 ---
-title: Til KMD og Valgdir (4. desember 2018)
+title: Til KMD og Valgdir
 author: Patricia Aas
 layout: post
 date: 2018-12-04
 description:
+image: "/images/aurora-borealis-1032523_640.jpg"
+image_alt: Aurora Borealis Lofoten Northern Lights Norway
 ---
 
 Hei,

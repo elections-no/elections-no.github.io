@@ -1,9 +1,11 @@
 ---
-title: Upublisert Kronikk, Valg kan hackes (2. desember 2018)
+title: Upublisert Kronikk, Valg kan hackes
 author: Patricia Aas
 layout: post
 date: 2018-12-02
 description:
+image: "/images/cliff-731840_640.jpg"
+image_alt: Cliff Rock Massive High View Fjord Ocean Sea
 ---
 
 Den 13. desember 2018 går høringsfristen ut for et forslag om å endre valgforskriften, dette forslaget inneholder en viktig endring, man skal kreve manuell foreløpig opptelling. Grunnen til dette er at det viste seg ved stortingsvalget i 2017 at nærmere 2 millioner stemmer skulle kun telles med maskiner, uten noen manuell kontroll. Det ble gjort en midlertidig regulering for stortingsvalget som gjorde at disse også måtte forhåndstelles manuelt. Det betydde at man gjorde en manuell partifordeling før man ba maskinene gjøre den endelige. Det manuelle resultatet kunne da sjekkes opp mot det som kom fra maskinene, og ga mulighet til å se om maskinene faktisk telte riktig.

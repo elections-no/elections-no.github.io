@@ -1,9 +1,11 @@
 ---
-title: Tellesystemet (1. desember 2018)
+title: Tellesystemet
 author: Patricia Aas
 layout: post
 date: 2018-12-01
 description:
+image: "/images/mountain-1624284_640.jpg"
+image_alt: Mountain Water Landscape Mountain And Water Nature
 ---
 
 Min foreløpige forståelse

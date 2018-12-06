@@ -1,9 +1,11 @@
 ---
-title: Til Riksvalgstyret (30. august 2017)
+title: Til Riksvalgstyret
 author: Patricia Aas
 layout: post
 date: 2017-08-30
 description:
+image: "/images/norway-1890655_640.jpg"
+image_alt: Norway Fjord River Water Reflections Beautiful
 ---
 
 Hei,

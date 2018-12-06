@@ -1,9 +1,11 @@
 ---
-title: Tillit og Åpenhet (1. desember 2018)
+title: Tillit og Åpenhet
 author: Patricia Aas
 layout: post
 date: 2018-12-01
 description:
+image: "/images/lofoten-3830381_640.jpg"
+image_alt: Lofoten North Norway Norway Nordland Flakstad
 ---
 Folk som jobber profesjonelt med valg i norge liker å snakke om tillit og åpenhet. Men et valgsystem er ikke et tillits system, og åpenhet har vi sett lite til. 
 

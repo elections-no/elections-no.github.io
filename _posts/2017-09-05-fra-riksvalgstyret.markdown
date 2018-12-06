@@ -1,9 +1,11 @@
 ---
-title: Fra Riksvalgstyret (5. september 2017)
+title: Fra Riksvalgstyret
 author: Siri Dolven (Avdelingsdirektør, KMD) og Marie Svendsen Mjøsund (Seniorrådgiver, KMD)
 layout: post
 date: 2017-09-05
 description:
+image: "/images/nidaros-cathedral-2068807_640.jpg"
+image_alt: Nidaros Cathedral Trondheim Norway Architecture
 ---
 
 Spørsmål til Riksvalgstyret om opptelling av stemmer ved valget 2017

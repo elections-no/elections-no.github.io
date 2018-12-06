@@ -1,9 +1,11 @@
 ---
-title: Kronikk (29. juli, VG)
+title: Kronikk i VG
 author: Patricia Aas
 layout: post
 date: 2017-07-29
 description: 
+image: "/images/trondheim-2074284_640.jpg"
+image_alt: Trondheim Row Houses Norway Architecture Colorful
 ---
 
 Til høsten skal vi stemme ved Stortingsvalget ved å krysse av på en stemmeseddel og putte
