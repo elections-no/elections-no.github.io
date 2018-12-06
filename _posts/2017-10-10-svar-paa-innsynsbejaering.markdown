@@ -24,4 +24,4 @@ rammeavtalen. Valgdirektoratet beklager at saksbehandlingstiden i denne
 saken har gått utover det som er angitt i det foreløpige svaret som ble 
 gitt 23.08.2017."
 
-https://www.mimesbronn.no/nn/request/valgkretser_som_benytter_maskine#incoming-2439
+<https://www.mimesbronn.no/nn/request/valgkretser_som_benytter_maskine#incoming-2439>

@@ -28,4 +28,4 @@ Med vennlig hilsen
 
 Valgdirektoratet"
 
-https://www.mimesbronn.no/nn/request/sikkerheten_ved_stortingsvalget#incoming-4841
+<https://www.mimesbronn.no/nn/request/sikkerheten_ved_stortingsvalget#incoming-4841>

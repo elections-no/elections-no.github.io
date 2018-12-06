@@ -23,4 +23,4 @@ Med hilsen
 
 Valgdirektoratet"
 
-https://www.mimesbronn.no/nn/request/ikt_sarbarhetskartlegging_i_valg#incoming-2273
+<https://www.mimesbronn.no/nn/request/ikt_sarbarhetskartlegging_i_valg#incoming-2273>
