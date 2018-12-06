@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div class="wrapper">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -11,22 +11,23 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <div class="grid-container">
       {%- for post in site.posts -%}
-      <li>
+      <div class="grid-item">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <a href="{{ post.url | relative_url }}" class="image fit">
             <figure>
                 <img src="{{ post.image | absolute_url }}" alt="{{ post.image_alt }}" height="300px"/>
-                <figcaption><h2>{{ post.title | escape }} - {{ post.date | date: date_format }}</h2></figcaption>
+                <figcaption>{{ post.title | escape }} <p/>
+                  {{ post.date | date: date_format }}</figcaption>
             </figure>
         </a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </li>
+      </div>
       {%- endfor -%}
-    </ul>
+    </div>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
