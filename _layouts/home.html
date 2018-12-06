@@ -17,7 +17,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <a href="{{ post.url | relative_url }}" class="image fit">
             <figure>
-                <img src="{{ post.image | absolute_url }}" alt="{{ post.image_alt }}" height="300px"/>
+                <img src="{{ post.image | absolute_url }}" alt="{{ post.image_alt }}"/>
                 <figcaption>{{ post.title | escape }} <p/>
                   {{ post.date | date: date_format }}</figcaption>
             </figure>
