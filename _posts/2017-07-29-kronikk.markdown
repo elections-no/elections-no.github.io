@@ -1,0 +1,74 @@
+---
+title: Kronikk (29. juli, VG)
+author: Patricia Aas
+layout: post
+date: 2017-07-29
+description: 
+---
+
+Til høsten skal vi stemme ved Stortingsvalget ved å krysse av på en stemmeseddel og putte
+den i en valgurne. Bare noen få timer etter at valglokalene stenger får vi resultatene
+strømmende fra hele landet. De fleste jeg snakker med tror at det sitter mennesker over det
+ganske land og teller stemmer for harde livet. For sånn var det. Sånn er det ikke. I mange år har
+flertallet av stemmer i Norge blitt telt såkalt “maskinelt” ved “skanning”. “Maskinelt” og
+“skanning” er uheldige begreper, de gir inntrykk av noe objektivt, noe upartisk, og dette er veldig
+misvisende.
+
+For å forklare hvorfor, må jeg forklare litt hvordan slike tellemaskiner virker. Først og fremst er
+de datamaskiner. De har en skanner tilkoblet som skanner inn en stemmeseddel og presenterer
+denne til et dataprogram som et bilde. Dette dataprogrammet må så prøve å tolke dette bildet.
+Det gjør den ved å sammenlikne bildet med hvordan en tom stemmeseddel er, for så å prøve å
+se på forskjellene. Disse forskjellene, din og min håndskrift, må så tydes og internt i
+dataprogrammet så skal disse tolkes som avkryssninger, slengere osv. Programmet holder en
+løpende opptelling og produserer til slutt et endelig resultat.
+
+Dette blir en veldig grov og overfladisk beskrivelse, men det som er viktig å forstå er at dette
+krever dataprogrammer, spesielt utviklet for norske valg og norske stemmesedler. Og
+dataprogrammer lages av mennesker.
+
+Sikkerhet i IT systemer har vært i mediene mye i de siste par årene, mye i form av datainnbrudd
+med påfølgende lekkasje av sensitiv informasjon eller såkalt ransomware som låser ned
+informasjon (krypterer) med krav om penger for å låse den opp. Det er en tredje form som så
+vidt har begynt å bli kjent og det er manipulasjon. En konkret versjon av dette er hacking av
+biler, hvor målet er å fjernstyre bilen. Her er ikke målet å lekke informasjon eller holde den
+gissel, men å bruke tilgangen til å manipulere et resultat. Disse formene for innbrudd kan være
+veldig vanskelig å oppdage. Grunnen er at det presenterte resultatet kan være troverdig.
+I Norge har vi i senere valg hatt utrolig nære valgresultater, svært små marginer har resultert i
+hvilken regjering som har blitt valgt og om partier kommer eller ikke kommer seg over
+sperregrensen. Et resultat, den ene eller andre veien, ville vært like troverdig. Et slikt landskap
+er ideelt for å skjule manipulering av valgresultater.
+
+Jeg sier på ingen måte at valg har blitt manipulert i Norge, men jeg sier at ingen har bevist at de
+ikke har blitt manipulert. I 2005 spurte Aftenposten om disse “tellemaskinene” og
+omkringliggende systemer har blitt utsatt for noen sikkerhetsrevisjon og svaret var nei. Jeg vil
+derfor spørre igjen, i 2017, etter et år hvor vi har sett hvor viktig det er at et valgresultat er riktig
+og uten påvirkning. Et år hvor det har blitt klart at fremmede makter kan ha interesse av å
+påvirke et valgresultat.
+
+Ved Defcon, en sikkerhetskonferanse som holdes i Las Vegas i disse dager, har de satt opp en
+“hacking village” for stemmemaskiner. Her skal de utforske om disse kan hackes og i hvilken
+grad. De maskinene de skal jobbe med er nok gjerne maskiner som velgerne bruker til å
+
+avlegge stemmer, men prinsippet er det samme. Den “letteste” måten å manipulere et valg er å
+gå etter datamaskinene, programvaren og utviklerne som som lager dem.
+For at vi skal kunne være trygge på et valgresultat hvor opptellingen skjer ved hjelp av
+programvare er det mange spørsmål som må besvares: Hvilket selskap står bak tellingen? Hva
+slags hardware og operativsystem blir brukt? Hvordan håndteres sikkerhetspatcher? Blir
+systemene sjekket av utenforstående (såkalte “penetrasjonstester”)? Blir kildekoden til
+programvaren kontinuerlig sjekket av tredjepart? Hvordan vet vi at programvaren som kjøres på
+maskinene er den samme som ble kontrollert? Gjøres stikkprøvekontroller av opptellingen?
+Hvordan håndteres avvik? Kan en tredjepart gjøre en kontrolltelling av stemmesedlene?
+Hvordan overføres resultatet fra den enkelte maskin? Hvordan håndteres sikkerheten i
+systemene som mottar resultatet? Har NSM eller noen andre godkjent systemene i bruk? Er
+utviklerne sikkerhetsklarert? Hvordan beskytter man seg mot en evt innsidetrussel (eks en
+utvikler som blir utpresset)?
+
+Disse og mange andre spørsmål må besvares for at tilliten til valgresultatet skal opprettholdes.
+Tilliten har til nå vært basert mye må en misforstått oppfatning om at mennesker teller og
+kontrollerer, samt en fundamental (og veldig norsk) tillit til staten. Det er nødvendig å behandle
+valgsystemer som samfunnskritiske systemer som kan misbrukes til å manipulere Norge som
+stat.
+
+Jeg håper at Valgdirektoratet, NSM og eventuelle leverandører kan gi svar på spørsmålene
+over, og jeg håper vi kan få dem før vi sitter i sofaen og ser valgresultatene strømme inn. Godt
+valg!

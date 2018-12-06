@@ -1,64 +1,43 @@
-url: https://elections.no
-baseurl: ""
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Elections.no
-email: psmaas@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-
-# Team names, titles and social links
-people:
-- name: Patricia Aas
-  pic: patricia
-  position: Editor
-  social:
-    - title: twitter
-      url: https://twitter.com/pati_gallardo
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
-
-#- name: Larry Parker
-#  pic: 2
-#  position: Lead Marketer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: linkedin
-#      url: #
-
-#- name: Diana Petersen
-#  pic: 3
-#  position: Lead Developer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/elections_no
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url:
-#  - title: bitbucket
-#    url:
-  - title: github
-    url: http://github.com/elections-no
-
-# Postal address (add as many lines as necessary)
-address:
-  - line:
+#email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  This site is to follow the Norwegian elections with a specific look at
+  election security and in particular IT security. There will be a mix of
+  Norwegian and English content.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://elections.no/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: elections_no
+github_username:  elections-no
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
