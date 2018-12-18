@@ -4,8 +4,8 @@ author: KMD
 layout: post
 date: 2018-12-18
 description: Svar på henvendelse om EVA Skanning
-image: "/images/norway-2184822_640.jpg"
-image_alt: Norway Fjord Lake Water Ice Chunks Landscape
+image: "/images/norway-3875663_640.jpg"
+image_alt: Norway Oslo December Architecture Norge Christmas
 ---
 "Vi viser til din henvendelse fra 7. desember 2018 om oversikt over forskjeller mellom manuell
 og maskinell telling på landsbasis.
