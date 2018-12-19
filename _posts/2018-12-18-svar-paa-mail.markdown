@@ -24,4 +24,4 @@ forskjellen mellom foreløpig og endelig opptelling gjort hos kommunene. Årsake
 skal fremkomme av protokollene. Det er for øvrig satt i gang et arbeid for å gjøre
 protokollene mer leservennlige og mer egnete til å vise ulike avvik."
 
-[HenvendelseOmEVASkanning.pdf](/docs/2018-12-18-HenvendelseOmEVASkanning.pdf)
+[Orginalt svar i PDF](/docs/2018-12-18-HenvendelseOmEVASkanning.pdf)

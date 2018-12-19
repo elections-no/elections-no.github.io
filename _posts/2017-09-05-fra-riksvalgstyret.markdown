@@ -42,3 +42,5 @@ Valgstyret skal protokollere både den foreløpige og den endelige opptellingen 
 Dette følger med til fylkesvalgstyrets kontroll. Evt. avvik kommenteres også i
 fylkesvalgstyrets møtebok. Alle møtebøker er offentlige dokumenter, og kan normalt finnes
 på kommunens/fylkeskommunenes nettsider.
+
+[Orginalt svar i PDF](/docs/2017-09-05-Riksvalgstyret.pdf)
