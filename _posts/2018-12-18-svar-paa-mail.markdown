@@ -7,6 +7,8 @@ description: Svar på henvendelse om EVA Skanning
 image: "/images/norway-3875663_640.jpg"
 image_alt: Norway Oslo December Architecture Norge Christmas
 ---
+Det følgende er sitat fra [dette svaret](/docs/2018-12-18-HenvendelseOmEVASkanning.pdf) fra KMD
+
 "Vi viser til din henvendelse fra 7. desember 2018 om oversikt over forskjeller mellom manuell
 og maskinell telling på landsbasis.
 
@@ -23,5 +25,3 @@ Departementet foretar ingen kontroll av opptellinger, og har derfor ingen sammen
 forskjellen mellom foreløpig og endelig opptelling gjort hos kommunene. Årsaken til avvik
 skal fremkomme av protokollene. Det er for øvrig satt i gang et arbeid for å gjøre
 protokollene mer leservennlige og mer egnete til å vise ulike avvik."
-
-[Orginalt svar i PDF](/docs/2018-12-18-HenvendelseOmEVASkanning.pdf)
