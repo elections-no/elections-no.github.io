@@ -1,5 +1,5 @@
 ---
-title: Ingen kontroll på opptellinger (Svar på mail)
+title: Departementet foretar ingen kontroll av opptellinger (Svar på mail)
 author: KMD
 layout: post
 date: 2018-12-18
