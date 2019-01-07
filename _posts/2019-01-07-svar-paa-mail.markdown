@@ -2,7 +2,7 @@
 title: Svar på spørsmål om Fjerntilgang (Svar på mail)
 author: Valgdirektoratet
 layout: post
-date: 2018-12-20
+date: 2019-01-07
 description: Svar på spørsmål om Fjerntilgang
 image: "/images/lofoten-3907648_640.jpg"
 image_alt: Lofoten, Norway, Sea, Boat, Winter
