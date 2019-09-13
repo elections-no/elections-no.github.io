@@ -6,7 +6,7 @@ permalink: /Documents/
 
 ## 2019 Local Elections - Protocols
 
-### Bergen
+### Vestland (Bergen)
 * [Kommunevalg v1][1] 
 * [Kommunevalg v2][3] 
 * [Fylkestingsvalg v1][2] 
@@ -29,10 +29,10 @@ permalink: /Documents/
 ## Evaluations
 * [_Sikkerheten i demokratiske prosesser i Norge_][9]
 
-[1]: /docs/2019/Bergen/Valgstyrets-motebok-kommunestyre.PDF
-[2]: /docs/2019/Bergen/Valgstyrets-motebok-fylke.PDF
-[3]: /docs/2019/Bergen/Valgstyrets-motebok-kommunestyre2.PDF
-[4]: /docs/2019/Bergen/Valgstyrets-motebok-fylke2.PDF
+[1]: /docs/2019/Vestland/Valgstyrets-motebok-kommunestyre.PDF
+[2]: /docs/2019/Vestland/Valgstyrets-motebok-fylke.PDF
+[3]: /docs/2019/Vestland/Valgstyrets-motebok-kommunestyre2.PDF
+[4]: /docs/2019/Vestland/Valgstyrets-motebok-fylke2.PDF
 [5]: /docs/2019/Oslo/Valgstyrets-motebok-kommunestyre.pdf
 [6]: /docs/Masteroppgave-Vilde-Amundsen.pdf
 [7]: /docs/OSSE_Observation_Report_2013.pdf
