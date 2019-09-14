@@ -28,6 +28,7 @@ permalink: /Documents/
 
 ## Evaluations
 * [_Sikkerheten i demokratiske prosesser i Norge_][9]
+* [_Arkitektur- og kildekodegjennomgang EVA Skanning_][12]
 
 [1]: /docs/2019/Vestland/Valgstyrets-motebok-kommunestyre.PDF
 [2]: /docs/2019/Vestland/Valgstyrets-motebok-fylke.PDF
@@ -40,3 +41,4 @@ permalink: /Documents/
 [9]: /docs/Utredning_av_sikkerheten_i_demokratiske_prosesser_i_Norge.pdf
 [10]: /docs/veileder_for_manuell_opptelling.pdf
 [11]: /docs/endring_i_forskrift.pdf
+[12]: /docs/mnemonic-eva-skanning-med-oppfolging-avgradert.pdf
