@@ -18,6 +18,7 @@ permalink: /Documents/
 ## Legal framework
 * [_Veileder om manuell foreløpig opptelling etter valgforskriften § 37a_][10]
 * [_Forskrift om endring i forskrift om valg til Stortinget, fylkesting og kommunestyrer (valgforskriften)_][11]
+* [_Valgforskriften_][13]
 
 ## Academic work
 * [_The Norwegian electoral system: a study of EVA Skanning, implemented error detection mechanisms, and applicability of risk-limiting audits_][6], Vilde Elise Samnøy Amundsen
@@ -42,3 +43,4 @@ permalink: /Documents/
 [10]: /docs/veileder_for_manuell_opptelling.pdf
 [11]: /docs/endring_i_forskrift.pdf
 [12]: /docs/mnemonic-eva-skanning-med-oppfolging-avgradert.pdf
+[13]: https://lovdata.no/dokument/SF/forskrift/2003-01-02-5
